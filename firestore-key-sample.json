@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "streamlit-reddit-5cde1",
+  "private_key_id": "4dd1d82012cd43e118d97e597c8e7869449b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAMiZzhln8755e\nilMnHPP8MRTuwCl1zel4SGbmpFs7CYotqKD8BQ/9nVzoUvQcIbHiRisptH8D0GQn\noUWiE6lyS4V/X9F7pDHPKW4dEm6Z99DWre7UIy9ycR0ZxZlD2+W7atuut1b33yLn6f4fvlaiTnEPLKIob3gT4s60tCll+fymHV9OzH7Hv+Mu/U3rls\nKybgOcjcRcpRQV7vMNtWNZEViDMkFhdUlTqGG3di5WwFBFVTho2MNKAnimfqicW+\n8LmP0sVczsM8r1trQKBgQDOocMkc/0Jgl4a8vPWR2GPz7tNv2uM0bRU\nbSNn2oKnZ0tZ9Ke8p4DNsdHJs4HSFpafTSxldRFkaMUUb2kPP3RVUKvisiKC7dgO\nVSzoJXF54izOpJkSeG1HJF2fmrwwsLGqtUrTQxL3YzHFQkCWuLS1bnxW+2EgxGf/\nc+Crb4N53QKBgE67wTq5boq5tCzehukAsCFiOyJFkV+/696Ulhs6FT2fEUQ9XRUg\nRZY0bSVVn/Si6Kt5tnOoewRO5D3ACfPQDK+xM9wPXROAzwY64S0QbeMotQ+YLHEj\nj+KFq8cFnegpNVc00alppGOc3+bL8zZc5jXV6Bc1D61+ZC9ViMMBSI2JAoGAIfqV\n1XPBY4Ptp67WDCGW2IhHe8SDkheV+OAtl1FmdNLWoEdMIgjFdI3OOsXrDjoqsK2H\nJHP41TMpXW/ordo4biMi8NdsN22XPtwg01f87hcUWTLV/SSSi8VeI/XVBoi33qOL\nV2xLPSUxtQdtCZv8E23EwqT51uKVW3uZsXdX/n0CgYEApKRfws1PzcGwfcdZDHqC\nYXp+tBmWFppwjenGtOL9Sx2DRSEvLxcwH1TicUJq9ajyYwuGR8unkr5M0Xb43YBg\nLeqzoLgN1czlEIR2Jp/jwPuhrtcnv3TgXFAm8m7zFP/osOeHFgww4p72ouX29Uek\nxy/p8F651Lpq46TNPSpA2UQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5y5ia@streamlit-reddit-5cde1.iam.gserviceaccount.com",
+  "client_id": "1064634503542105835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5y5ia%40streamlit-reddit-5cde1.iam.gserviceaccount.com"
+}
